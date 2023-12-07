@@ -1,2 +1,5 @@
-# stat-201-project
-Template project repository for STAT-201
+# Cholesterol Heart Disease Data Analysis
+
+Examine gender differences in cholesterol levels among heart disease patients using R.
+
+Data wrangling, summarizing, and visualizing to perform hypothesis testing using two-sample t test.
